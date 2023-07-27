@@ -38,11 +38,11 @@
 
 <img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/F1_Score.jpg" alt="output" height=350 width=350>
  
-<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/Precision_Score.jpg" alt="output" height=350 width=350>>
+<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/Precision_Score.jpg" alt="output" height=350 width=350>
 
-<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/Recall_Score.jpg" alt="output" height=350 width=350>>
+<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/Recall_Score.jpg" alt="output" height=350 width=350>
 
-<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/mAP_Score.jpg" alt="output" height=350 width=350>>
+<img src="https://github.com/jayvaghasiya/Parcel-Detection/blob/main/Parcel-evaluation/mAP_Score.jpg" alt="output" height=350 width=350>
 
 	
 
